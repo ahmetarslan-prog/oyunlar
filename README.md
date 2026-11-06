@@ -4,6 +4,7 @@ Tarayıcıda ve telefonda çalışan küçük oyunlar. GitHub Pages ile yayınla
 
 - Menü: https://ahmetarslan-prog.github.io/oyunlar/
 - Sudoku: https://ahmetarslan-prog.github.io/oyunlar/sudoku/
+- Alacakaranlık (gece ormanında 3D korku/aksiyon): https://ahmetarslan-prog.github.io/oyunlar/alacakaranlik/
 
 ## Yeni oyun eklemek
 1. `yeni-oyun/` klasörü aç (içinde `index.html`, `manifest.webmanifest`, `sw.js`, `icons/`).
