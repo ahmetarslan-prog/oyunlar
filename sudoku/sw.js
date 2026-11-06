@@ -1,4 +1,4 @@
-const CACHE = 'sudoku-v3';
+const CACHE = 'sudoku-v5';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icons/apple-touch-icon.png', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', e => {
   // cache:'reload' → tarayıcının eski HTTP önbelleğini atlayıp dosyaları sunucudan taze al
